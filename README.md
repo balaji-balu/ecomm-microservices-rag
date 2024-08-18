@@ -1,6 +1,6 @@
 ecommerce microservices providing functions like RAG, analytics and ecommerce operations
 
-[days work]() 
+[Everyday work schedule log]() 
 
 ### Installation
 
