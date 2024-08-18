@@ -1,6 +1,7 @@
 package main
 
 import (
+    "os"
     "context"
     "encoding/json"
     "fmt"
@@ -12,15 +13,25 @@ import (
     // gptcache "github.com/zilliztech/gptcache"
     // "github.com/zilliztech/gptcache/local"
     // "github.com/zilliztech/gptcache/local/storage/sqlite"
+
+    "github.com/joho/godotenv"
 )
 
 var (
     esClient *elastic.Client
-    apiKey    = "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"
+    apiKey    string
 //    cache      gptcache.Cache
 )
 
 func init() {
+    err1 := godotenv.Load("../../.env")
+    if err1 != nil {
+        log.Fatalf("Error loading .env file")
+    }
+
+    // Get the environment variable
+    apiKey = os.Getenv("OPENAI_API_KEY")
+
     // Elasticsearch address and configuration
     esAddress := "http://localhost:9200" // Update this if your Elasticsearch is hosted elsewhere
 

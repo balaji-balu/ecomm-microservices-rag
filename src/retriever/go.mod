@@ -4,6 +4,7 @@ go 1.22.5
 
 require (
 	github.com/go-resty/resty/v2 v2.14.0
+	github.com/joho/godotenv v1.5.1
 	github.com/olivere/elastic/v7 v7.0.32
 )
 
