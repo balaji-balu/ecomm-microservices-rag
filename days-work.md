@@ -4,8 +4,9 @@ Todo:
 
 
 #### 17 Aug 2024
-RAG (Retrieval microservice):
+- RAG (Retrieval microservice):
    - elasticsearch for searching inventory
    - openai for inventory data summarization 
    - inventory data generated
    - golang
+- docker compose for elasticsearch, kibana
