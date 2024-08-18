@@ -1,0 +1,802 @@
+[
+  {
+    "product_id": "P1",
+    "product_name": "Product 1",
+    "category": "Toys",
+    "stock_level": 73,
+    "price": 157,
+    "description": "Description for product 1"
+  },
+  {
+    "product_id": "P2",
+    "product_name": "Product 2",
+    "category": "Books",
+    "stock_level": 36,
+    "price": 242,
+    "description": "Description for product 2"
+  },
+  {
+    "product_id": "P3",
+    "product_name": "Product 3",
+    "category": "Home \u0026 Kitchen",
+    "stock_level": 14,
+    "price": 138,
+    "description": "Description for product 3"
+  },
+  {
+    "product_id": "P4",
+    "product_name": "Product 4",
+    "category": "Toys",
+    "stock_level": 33,
+    "price": 197,
+    "description": "Description for product 4"
+  },
+  {
+    "product_id": "P5",
+    "product_name": "Product 5",
+    "category": "Clothing",
+    "stock_level": 82,
+    "price": 381,
+    "description": "Description for product 5"
+  },
+  {
+    "product_id": "P6",
+    "product_name": "Product 6",
+    "category": "Clothing",
+    "stock_level": 69,
+    "price": 428,
+    "description": "Description for product 6"
+  },
+  {
+    "product_id": "P7",
+    "product_name": "Product 7",
+    "category": "Electronics",
+    "stock_level": 63,
+    "price": 54,
+    "description": "Description for product 7"
+  },
+  {
+    "product_id": "P8",
+    "product_name": "Product 8",
+    "category": "Electronics",
+    "stock_level": 9,
+    "price": 176,
+    "description": "Description for product 8"
+  },
+  {
+    "product_id": "P9",
+    "product_name": "Product 9",
+    "category": "Toys",
+    "stock_level": 26,
+    "price": 375,
+    "description": "Description for product 9"
+  },
+  {
+    "product_id": "P10",
+    "product_name": "Product 10",
+    "category": "Books",
+    "stock_level": 73,
+    "price": 300,
+    "description": "Description for product 10"
+  },
+  {
+    "product_id": "P11",
+    "product_name": "Product 11",
+    "category": "Toys",
+    "stock_level": 79,
+    "price": 21,
+    "description": "Description for product 11"
+  },
+  {
+    "product_id": "P12",
+    "product_name": "Product 12",
+    "category": "Books",
+    "stock_level": 63,
+    "price": 400,
+    "description": "Description for product 12"
+  },
+  {
+    "product_id": "P13",
+    "product_name": "Product 13",
+    "category": "Clothing",
+    "stock_level": 25,
+    "price": 212,
+    "description": "Description for product 13"
+  },
+  {
+    "product_id": "P14",
+    "product_name": "Product 14",
+    "category": "Clothing",
+    "stock_level": 59,
+    "price": 222,
+    "description": "Description for product 14"
+  },
+  {
+    "product_id": "P15",
+    "product_name": "Product 15",
+    "category": "Electronics",
+    "stock_level": 1,
+    "price": 391,
+    "description": "Description for product 15"
+  },
+  {
+    "product_id": "P16",
+    "product_name": "Product 16",
+    "category": "Books",
+    "stock_level": 51,
+    "price": 215,
+    "description": "Description for product 16"
+  },
+  {
+    "product_id": "P17",
+    "product_name": "Product 17",
+    "category": "Toys",
+    "stock_level": 74,
+    "price": 10,
+    "description": "Description for product 17"
+  },
+  {
+    "product_id": "P18",
+    "product_name": "Product 18",
+    "category": "Books",
+    "stock_level": 86,
+    "price": 298,
+    "description": "Description for product 18"
+  },
+  {
+    "product_id": "P19",
+    "product_name": "Product 19",
+    "category": "Electronics",
+    "stock_level": 66,
+    "price": 418,
+    "description": "Description for product 19"
+  },
+  {
+    "product_id": "P20",
+    "product_name": "Product 20",
+    "category": "Books",
+    "stock_level": 51,
+    "price": 286,
+    "description": "Description for product 20"
+  },
+  {
+    "product_id": "P21",
+    "product_name": "Product 21",
+    "category": "Home \u0026 Kitchen",
+    "stock_level": 22,
+    "price": 251,
+    "description": "Description for product 21"
+  },
+  {
+    "product_id": "P22",
+    "product_name": "Product 22",
+    "category": "Books",
+    "stock_level": 45,
+    "price": 321,
+    "description": "Description for product 22"
+  },
+  {
+    "product_id": "P23",
+    "product_name": "Product 23",
+    "category": "Electronics",
+    "stock_level": 57,
+    "price": 349,
+    "description": "Description for product 23"
+  },
+  {
+    "product_id": "P24",
+    "product_name": "Product 24",
+    "category": "Electronics",
+    "stock_level": 93,
+    "price": 239,
+    "description": "Description for product 24"
+  },
+  {
+    "product_id": "P25",
+    "product_name": "Product 25",
+    "category": "Books",
+    "stock_level": 84,
+    "price": 175,
+    "description": "Description for product 25"
+  },
+  {
+    "product_id": "P26",
+    "product_name": "Product 26",
+    "category": "Home \u0026 Kitchen",
+    "stock_level": 42,
+    "price": 45,
+    "description": "Description for product 26"
+  },
+  {
+    "product_id": "P27",
+    "product_name": "Product 27",
+    "category": "Electronics",
+    "stock_level": 78,
+    "price": 383,
+    "description": "Description for product 27"
+  },
+  {
+    "product_id": "P28",
+    "product_name": "Product 28",
+    "category": "Toys",
+    "stock_level": 24,
+    "price": 312,
+    "description": "Description for product 28"
+  },
+  {
+    "product_id": "P29",
+    "product_name": "Product 29",
+    "category": "Home \u0026 Kitchen",
+    "stock_level": 70,
+    "price": 184,
+    "description": "Description for product 29"
+  },
+  {
+    "product_id": "P30",
+    "product_name": "Product 30",
+    "category": "Clothing",
+    "stock_level": 87,
+    "price": 23,
+    "description": "Description for product 30"
+  },
+  {
+    "product_id": "P31",
+    "product_name": "Product 31",
+    "category": "Clothing",
+    "stock_level": 85,
+    "price": 96,
+    "description": "Description for product 31"
+  },
+  {
+    "product_id": "P32",
+    "product_name": "Product 32",
+    "category": "Toys",
+    "stock_level": 67,
+    "price": 22,
+    "description": "Description for product 32"
+  },
+  {
+    "product_id": "P33",
+    "product_name": "Product 33",
+    "category": "Electronics",
+    "stock_level": 94,
+    "price": 70,
+    "description": "Description for product 33"
+  },
+  {
+    "product_id": "P34",
+    "product_name": "Product 34",
+    "category": "Electronics",
+    "stock_level": 15,
+    "price": 257,
+    "description": "Description for product 34"
+  },
+  {
+    "product_id": "P35",
+    "product_name": "Product 35",
+    "category": "Books",
+    "stock_level": 100,
+    "price": 38,
+    "description": "Description for product 35"
+  },
+  {
+    "product_id": "P36",
+    "product_name": "Product 36",
+    "category": "Toys",
+    "stock_level": 23,
+    "price": 197,
+    "description": "Description for product 36"
+  },
+  {
+    "product_id": "P37",
+    "product_name": "Product 37",
+    "category": "Electronics",
+    "stock_level": 57,
+    "price": 393,
+    "description": "Description for product 37"
+  },
+  {
+    "product_id": "P38",
+    "product_name": "Product 38",
+    "category": "Clothing",
+    "stock_level": 93,
+    "price": 38,
+    "description": "Description for product 38"
+  },
+  {
+    "product_id": "P39",
+    "product_name": "Product 39",
+    "category": "Clothing",
+    "stock_level": 6,
+    "price": 487,
+    "description": "Description for product 39"
+  },
+  {
+    "product_id": "P40",
+    "product_name": "Product 40",
+    "category": "Electronics",
+    "stock_level": 96,
+    "price": 148,
+    "description": "Description for product 40"
+  },
+  {
+    "product_id": "P41",
+    "product_name": "Product 41",
+    "category": "Clothing",
+    "stock_level": 100,
+    "price": 335,
+    "description": "Description for product 41"
+  },
+  {
+    "product_id": "P42",
+    "product_name": "Product 42",
+    "category": "Electronics",
+    "stock_level": 5,
+    "price": 312,
+    "description": "Description for product 42"
+  },
+  {
+    "product_id": "P43",
+    "product_name": "Product 43",
+    "category": "Clothing",
+    "stock_level": 1,
+    "price": 86,
+    "description": "Description for product 43"
+  },
+  {
+    "product_id": "P44",
+    "product_name": "Product 44",
+    "category": "Electronics",
+    "stock_level": 89,
+    "price": 167,
+    "description": "Description for product 44"
+  },
+  {
+    "product_id": "P45",
+    "product_name": "Product 45",
+    "category": "Books",
+    "stock_level": 60,
+    "price": 308,
+    "description": "Description for product 45"
+  },
+  {
+    "product_id": "P46",
+    "product_name": "Product 46",
+    "category": "Electronics",
+    "stock_level": 38,
+    "price": 241,
+    "description": "Description for product 46"
+  },
+  {
+    "product_id": "P47",
+    "product_name": "Product 47",
+    "category": "Electronics",
+    "stock_level": 77,
+    "price": 253,
+    "description": "Description for product 47"
+  },
+  {
+    "product_id": "P48",
+    "product_name": "Product 48",
+    "category": "Electronics",
+    "stock_level": 83,
+    "price": 143,
+    "description": "Description for product 48"
+  },
+  {
+    "product_id": "P49",
+    "product_name": "Product 49",
+    "category": "Electronics",
+    "stock_level": 82,
+    "price": 401,
+    "description": "Description for product 49"
+  },
+  {
+    "product_id": "P50",
+    "product_name": "Product 50",
+    "category": "Toys",
+    "stock_level": 46,
+    "price": 11,
+    "description": "Description for product 50"
+  },
+  {
+    "product_id": "P51",
+    "product_name": "Product 51",
+    "category": "Books",
+    "stock_level": 63,
+    "price": 205,
+    "description": "Description for product 51"
+  },
+  {
+    "product_id": "P52",
+    "product_name": "Product 52",
+    "category": "Toys",
+    "stock_level": 62,
+    "price": 130,
+    "description": "Description for product 52"
+  },
+  {
+    "product_id": "P53",
+    "product_name": "Product 53",
+    "category": "Home \u0026 Kitchen",
+    "stock_level": 9,
+    "price": 30,
+    "description": "Description for product 53"
+  },
+  {
+    "product_id": "P54",
+    "product_name": "Product 54",
+    "category": "Clothing",
+    "stock_level": 5,
+    "price": 166,
+    "description": "Description for product 54"
+  },
+  {
+    "product_id": "P55",
+    "product_name": "Product 55",
+    "category": "Books",
+    "stock_level": 51,
+    "price": 145,
+    "description": "Description for product 55"
+  },
+  {
+    "product_id": "P56",
+    "product_name": "Product 56",
+    "category": "Toys",
+    "stock_level": 35,
+    "price": 247,
+    "description": "Description for product 56"
+  },
+  {
+    "product_id": "P57",
+    "product_name": "Product 57",
+    "category": "Clothing",
+    "stock_level": 43,
+    "price": 11,
+    "description": "Description for product 57"
+  },
+  {
+    "product_id": "P58",
+    "product_name": "Product 58",
+    "category": "Home \u0026 Kitchen",
+    "stock_level": 60,
+    "price": 254,
+    "description": "Description for product 58"
+  },
+  {
+    "product_id": "P59",
+    "product_name": "Product 59",
+    "category": "Clothing",
+    "stock_level": 46,
+    "price": 15,
+    "description": "Description for product 59"
+  },
+  {
+    "product_id": "P60",
+    "product_name": "Product 60",
+    "category": "Home \u0026 Kitchen",
+    "stock_level": 46,
+    "price": 367,
+    "description": "Description for product 60"
+  },
+  {
+    "product_id": "P61",
+    "product_name": "Product 61",
+    "category": "Toys",
+    "stock_level": 72,
+    "price": 289,
+    "description": "Description for product 61"
+  },
+  {
+    "product_id": "P62",
+    "product_name": "Product 62",
+    "category": "Clothing",
+    "stock_level": 37,
+    "price": 349,
+    "description": "Description for product 62"
+  },
+  {
+    "product_id": "P63",
+    "product_name": "Product 63",
+    "category": "Books",
+    "stock_level": 83,
+    "price": 462,
+    "description": "Description for product 63"
+  },
+  {
+    "product_id": "P64",
+    "product_name": "Product 64",
+    "category": "Toys",
+    "stock_level": 85,
+    "price": 218,
+    "description": "Description for product 64"
+  },
+  {
+    "product_id": "P65",
+    "product_name": "Product 65",
+    "category": "Home \u0026 Kitchen",
+    "stock_level": 62,
+    "price": 48,
+    "description": "Description for product 65"
+  },
+  {
+    "product_id": "P66",
+    "product_name": "Product 66",
+    "category": "Toys",
+    "stock_level": 78,
+    "price": 433,
+    "description": "Description for product 66"
+  },
+  {
+    "product_id": "P67",
+    "product_name": "Product 67",
+    "category": "Toys",
+    "stock_level": 47,
+    "price": 26,
+    "description": "Description for product 67"
+  },
+  {
+    "product_id": "P68",
+    "product_name": "Product 68",
+    "category": "Clothing",
+    "stock_level": 29,
+    "price": 489,
+    "description": "Description for product 68"
+  },
+  {
+    "product_id": "P69",
+    "product_name": "Product 69",
+    "category": "Clothing",
+    "stock_level": 99,
+    "price": 57,
+    "description": "Description for product 69"
+  },
+  {
+    "product_id": "P70",
+    "product_name": "Product 70",
+    "category": "Books",
+    "stock_level": 48,
+    "price": 64,
+    "description": "Description for product 70"
+  },
+  {
+    "product_id": "P71",
+    "product_name": "Product 71",
+    "category": "Toys",
+    "stock_level": 68,
+    "price": 36,
+    "description": "Description for product 71"
+  },
+  {
+    "product_id": "P72",
+    "product_name": "Product 72",
+    "category": "Electronics",
+    "stock_level": 47,
+    "price": 257,
+    "description": "Description for product 72"
+  },
+  {
+    "product_id": "P73",
+    "product_name": "Product 73",
+    "category": "Clothing",
+    "stock_level": 0,
+    "price": 111,
+    "description": "Description for product 73"
+  },
+  {
+    "product_id": "P74",
+    "product_name": "Product 74",
+    "category": "Toys",
+    "stock_level": 98,
+    "price": 484,
+    "description": "Description for product 74"
+  },
+  {
+    "product_id": "P75",
+    "product_name": "Product 75",
+    "category": "Toys",
+    "stock_level": 59,
+    "price": 122,
+    "description": "Description for product 75"
+  },
+  {
+    "product_id": "P76",
+    "product_name": "Product 76",
+    "category": "Clothing",
+    "stock_level": 7,
+    "price": 202,
+    "description": "Description for product 76"
+  },
+  {
+    "product_id": "P77",
+    "product_name": "Product 77",
+    "category": "Clothing",
+    "stock_level": 44,
+    "price": 241,
+    "description": "Description for product 77"
+  },
+  {
+    "product_id": "P78",
+    "product_name": "Product 78",
+    "category": "Clothing",
+    "stock_level": 36,
+    "price": 231,
+    "description": "Description for product 78"
+  },
+  {
+    "product_id": "P79",
+    "product_name": "Product 79",
+    "category": "Electronics",
+    "stock_level": 19,
+    "price": 89,
+    "description": "Description for product 79"
+  },
+  {
+    "product_id": "P80",
+    "product_name": "Product 80",
+    "category": "Home \u0026 Kitchen",
+    "stock_level": 66,
+    "price": 212,
+    "description": "Description for product 80"
+  },
+  {
+    "product_id": "P81",
+    "product_name": "Product 81",
+    "category": "Toys",
+    "stock_level": 35,
+    "price": 177,
+    "description": "Description for product 81"
+  },
+  {
+    "product_id": "P82",
+    "product_name": "Product 82",
+    "category": "Books",
+    "stock_level": 66,
+    "price": 473,
+    "description": "Description for product 82"
+  },
+  {
+    "product_id": "P83",
+    "product_name": "Product 83",
+    "category": "Toys",
+    "stock_level": 94,
+    "price": 378,
+    "description": "Description for product 83"
+  },
+  {
+    "product_id": "P84",
+    "product_name": "Product 84",
+    "category": "Books",
+    "stock_level": 37,
+    "price": 390,
+    "description": "Description for product 84"
+  },
+  {
+    "product_id": "P85",
+    "product_name": "Product 85",
+    "category": "Clothing",
+    "stock_level": 38,
+    "price": 256,
+    "description": "Description for product 85"
+  },
+  {
+    "product_id": "P86",
+    "product_name": "Product 86",
+    "category": "Electronics",
+    "stock_level": 98,
+    "price": 318,
+    "description": "Description for product 86"
+  },
+  {
+    "product_id": "P87",
+    "product_name": "Product 87",
+    "category": "Clothing",
+    "stock_level": 95,
+    "price": 125,
+    "description": "Description for product 87"
+  },
+  {
+    "product_id": "P88",
+    "product_name": "Product 88",
+    "category": "Electronics",
+    "stock_level": 23,
+    "price": 370,
+    "description": "Description for product 88"
+  },
+  {
+    "product_id": "P89",
+    "product_name": "Product 89",
+    "category": "Clothing",
+    "stock_level": 48,
+    "price": 485,
+    "description": "Description for product 89"
+  },
+  {
+    "product_id": "P90",
+    "product_name": "Product 90",
+    "category": "Toys",
+    "stock_level": 76,
+    "price": 434,
+    "description": "Description for product 90"
+  },
+  {
+    "product_id": "P91",
+    "product_name": "Product 91",
+    "category": "Electronics",
+    "stock_level": 17,
+    "price": 38,
+    "description": "Description for product 91"
+  },
+  {
+    "product_id": "P92",
+    "product_name": "Product 92",
+    "category": "Home \u0026 Kitchen",
+    "stock_level": 53,
+    "price": 496,
+    "description": "Description for product 92"
+  },
+  {
+    "product_id": "P93",
+    "product_name": "Product 93",
+    "category": "Clothing",
+    "stock_level": 48,
+    "price": 485,
+    "description": "Description for product 93"
+  },
+  {
+    "product_id": "P94",
+    "product_name": "Product 94",
+    "category": "Books",
+    "stock_level": 6,
+    "price": 350,
+    "description": "Description for product 94"
+  },
+  {
+    "product_id": "P95",
+    "product_name": "Product 95",
+    "category": "Toys",
+    "stock_level": 7,
+    "price": 101,
+    "description": "Description for product 95"
+  },
+  {
+    "product_id": "P96",
+    "product_name": "Product 96",
+    "category": "Clothing",
+    "stock_level": 31,
+    "price": 60,
+    "description": "Description for product 96"
+  },
+  {
+    "product_id": "P97",
+    "product_name": "Product 97",
+    "category": "Home \u0026 Kitchen",
+    "stock_level": 30,
+    "price": 246,
+    "description": "Description for product 97"
+  },
+  {
+    "product_id": "P98",
+    "product_name": "Product 98",
+    "category": "Books",
+    "stock_level": 70,
+    "price": 134,
+    "description": "Description for product 98"
+  },
+  {
+    "product_id": "P99",
+    "product_name": "Product 99",
+    "category": "Home \u0026 Kitchen",
+    "stock_level": 56,
+    "price": 145,
+    "description": "Description for product 99"
+  },
+  {
+    "product_id": "P100",
+    "product_name": "Product 100",
+    "category": "Books",
+    "stock_level": 13,
+    "price": 248,
+    "description": "Description for product 100"
+  }
+]
